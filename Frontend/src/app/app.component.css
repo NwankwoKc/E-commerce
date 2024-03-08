@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+a{
+    padding: 0.5em;
+    text-decoration: none;
+    color:black
+}
+a:hover{
+    color: red;
+}
+h1{
+    text-align: center;
+    color: black;
+    background-color: grey;
+    margin: 0;
+    padding: 1em;    
+}
